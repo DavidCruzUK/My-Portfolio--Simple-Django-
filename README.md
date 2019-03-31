@@ -44,3 +44,8 @@ $ django-admin createsuperuser
 ```
 
 5th you must be ready to go
+
+### Libraries use:
+- Bootstrap 4.12
+- JQuery 3.3.1
+- Popper.js 
