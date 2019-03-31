@@ -49,3 +49,7 @@ $ django-admin createsuperuser
 - Bootstrap 4.12
 - JQuery 3.3.1
 - Popper.js 
+
+## Authors
+* **David Cruz** - *Initial work* - [David Cruz UK](https://www.davidcruz.co.uk)
+Visit the Code Academy [LastReact](https://www.lastreact.com)
